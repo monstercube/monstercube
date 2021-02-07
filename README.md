@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<h1 align="center"> <img src="https://github.com/tusharnankani/tusharnankani/blob/master/Assets/hello.gif" alt="hello-gif"> Welcome to my GitHub! 🤗</h1>
+
 <!--
 **monstercube/monstercube** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
